@@ -1,4 +1,4 @@
-
+##dict examples
 mydict1 = {"name": "aravind", "age": 30,"city": "hyd"}
 
 print(mydict1)
