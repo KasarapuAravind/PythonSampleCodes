@@ -7,7 +7,7 @@
 # print(tot)
 
 
-### Print the value of key ‘history’ from the below dict
+### Print the value of key ‘history’ from the below dictionary
 sampleDict = {
     "class": {
         "student": {
