@@ -1,4 +1,4 @@
-#### SUM OF DIGITS #######
+#### SUM OF DIGITS ########
 # num = input("enter a number")
 
 # total = 0
